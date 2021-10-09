@@ -1,14 +1,4 @@
-<div align=center>
- 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdwenpark&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
-<p align=center>
-  안녕하세요, 백엔드 개발자 박종규입니다. <br>
-  숲을 보는 개발자를 지향합니다.
-</p>
-
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Dwen%20&fontSize=70&fontAlign=75&fontAlignY=30&rotate=13&desc=BackEnd%20Developer&descAlign=75&descAlignY=45)
 
 <div align=center>
 
