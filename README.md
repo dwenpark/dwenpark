@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Dwen%20&fontSize=70&fontAlign=75&fontAlignY=30&rotate=13&desc=BackEnd%20Developer&descAlign=75&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Dwen%20&fontSize=70&fontAlign=75&fontAlignY=30&rotate=13&desc=Devops%20Engineer&descAlign=75&descAlignY=45)
 
 <div align=center>
 
